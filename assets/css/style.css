@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background: #ffffff;
+}
+
+header h1 {
+    background: #4aaaa5;
+    color: #777777;
+}
+
+.teal {
+    color: #4aaaa5;
+}
+
+a, p, .copyright {
+    color: #777777;
+}
