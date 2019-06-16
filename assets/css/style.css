@@ -143,4 +143,17 @@ footer {
     margin: 10px;
     width: 90%;
 }
+ /* column styling */
+.col {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* clear floats after the rows */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 
