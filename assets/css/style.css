@@ -110,3 +110,24 @@ hr {
     padding: 5px;
 }
 
+/* style p tag and copyright class */
+p, .copyright {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica, sans-serif';
+    line-height: 1.5;
+    padding: 5px;
+}
+
+/* style copyright class within footer */
+footer .copyright {
+    display: inline-block;    
+}
+
+/* style footer - centers text */
+footer {
+    background: #666;    
+    padding: 15px;      
+    border-top: 5px solid #4aaaa5;
+    text-align: center;
+}
+
