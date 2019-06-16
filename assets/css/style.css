@@ -3,14 +3,37 @@
     box-sizing: border-box;
 }
 
-
+/* body and html styling */
 body, html{
     margin:0;
     padding:0;
     }
 
-
+/* body background color */
 body{
     background:#ccc;
 }
 
+/* header styling */
+.header {
+    width:100%;
+    background:#fff;
+    border-color: #cccccc;
+}
+
+/* h1 styling within .header class */
+.header h1 {
+    display: block;
+    margin:0;
+    float:left;
+    background: #4aaaa5;
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+/* ul styling within header class*/
+.header ul {
+    display: block;
+    margin:0;
+    float:right;
+}
