@@ -37,3 +37,22 @@ body{
     margin:0;
     float:right;
 }
+
+/* add clear fix to clear floats*/
+.clearFix {
+    clear:both;
+    overflow: auto; 
+}
+
+/* add styling for navigation class*/
+.navigation {    
+    padding: 0px;
+    width: 960px;
+    margin: 0 auto;
+}
+
+/* h1 styling within navigation class */
+.navigation h1 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding: 20px;
+}
