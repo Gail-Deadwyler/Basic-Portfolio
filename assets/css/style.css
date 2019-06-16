@@ -131,3 +131,16 @@ footer {
     text-align: center;
 }
 
+/* add button styling */
+.button {
+    background: #4aaaa5;
+    color: #fff;
+    margin: 10px;
+}
+
+/* styling for textboxes and text area */
+.name, .email, .message {
+    margin: 10px;
+    width: 90%;
+}
+
