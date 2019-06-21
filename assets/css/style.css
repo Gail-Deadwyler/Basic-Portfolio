@@ -34,7 +34,7 @@ body{
 /* ul styling within header class*/
 .header ul {
     display: block;
-    margin:0;
+    margin:20px;
     float:right;
 }
 
