@@ -157,3 +157,24 @@ footer {
     display: table;
   }
 
+  /* style images within col class */
+  .col img {
+    opacity: 0.8;
+    width: 100%;
+    border: 0 none;
+  }
+
+  /* style h3 within col class */
+  .col h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 97%;
+    padding: 10px;
+    margin-bottom: 0;
+    font-weight: 200;
+    line-height: 20px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;   
+  }
+
